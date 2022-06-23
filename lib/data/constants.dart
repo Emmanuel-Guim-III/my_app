@@ -1,0 +1,1 @@
+const numOfDaysInAYear = 365;
