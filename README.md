@@ -1,4 +1,4 @@
-# my_app
+# pasiguro-mobile-app
 
 A new Flutter project.
 
